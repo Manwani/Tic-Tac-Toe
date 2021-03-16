@@ -1,0 +1,1 @@
+Game project that uses modules and factories. Main objective is to use as little global code as possible.
